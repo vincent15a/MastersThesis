@@ -1,0 +1,10 @@
+Nr tasks 1, Time 0.05246567726135254, Makespan 15, Max Temp 347.72 
+Nr tasks 2, Time 0.09233570098876953, Makespan 15, Max Temp 343.57 
+Nr tasks 3, Time 0.1529848575592041, Makespan 19, Max Temp 346.02 
+Nr tasks 4, Time 0.1840651035308838, Makespan 19, Max Temp 370.6 
+Nr tasks 5, Time 0.286604642868042, Makespan 19, Max Temp 375.02 
+Nr tasks 6, Time 0.3294031620025635, Makespan 19, Max Temp 377.71 
+Nr tasks 7, Time 0.43747735023498535, Makespan 19, Max Temp 372.67 
+Nr tasks 8, Time 0.8628976345062256, Makespan 20, Max Temp 392.24 
+Nr tasks 9, Time 5.4926557540893555, Makespan 20, Max Temp 398.64 
+Nr tasks 10, Time 6.9703662395477295, Makespan 20, Max Temp 399.53 

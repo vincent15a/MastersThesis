@@ -1,0 +1,16 @@
+Nr tasks 1, Time 1.1046993732452393, Makespan 15, Max Temp 349.49 , GAP 0.0%
+Nr tasks 2, Time 0.03285503387451172, Makespan 16, Max Temp 343.78 , GAP 6.25%
+Nr tasks 3, Time 0.0455479621887207, Makespan 19, Max Temp 350.95 , GAP 0.0%
+Nr tasks 4, Time 0.05374717712402344, Makespan 19, Max Temp 375.87 , GAP 0.0%
+Nr tasks 5, Time 0.09444594383239746, Makespan 19, Max Temp 384.74 , GAP 0.0%
+Nr tasks 6, Time 0.11479520797729492, Makespan 19, Max Temp 388.9 , GAP 0.0%
+Nr tasks 7, Time 0.11810421943664551, Makespan 19, Max Temp 393.53 , GAP 0.0%
+Nr tasks 8, Time 0.9080896377563477, Makespan 20, Max Temp 399.93 , GAP 0.0%
+Nr tasks 9, Time 10.10481309890747, Makespan 34, Max Temp 398.65 , GAP 5.882352931487874%
+Nr tasks 10, Time 9.00026273727417, Makespan 34, Max Temp 399.07 , GAP 5.88235292179908%
+Nr tasks 11, Time 11.481897592544556, Makespan 34, Max Temp 397.36 , GAP 5.88235294117647%
+Nr tasks 12, Time 32.18511390686035, Makespan 34, Max Temp 399.04 , GAP 20.00000000000022%
+Nr tasks 13, Time 62.73342204093933, Makespan 36, Max Temp 399.03 , GAP 0.0%
+Nr tasks 14, Time 133.5265064239502, Makespan 37, Max Temp 399.63 , GAP 2.7027026927099973%
+Nr tasks 15, Time 129.63113808631897, Makespan 38, Max Temp 399.63 , GAP 15.789473666935375%
+Nr tasks 16, Time 1200.4136517047882, Makespan 43, Max Temp 399.06 , GAP 46.21370171804398%

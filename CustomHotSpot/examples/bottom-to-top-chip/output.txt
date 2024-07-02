@@ -1,0 +1,325 @@
+Parsing input files...
+
+
+Simulation Summary:
+-------------------------
+Ambient at 318.15 K
+-------------------------
+Heat Sink : 6.90 mm
+  conductivity = 400.000000 W/(m-K)
+  vol. heat capacity = 3550000.000000 J/(m^3-K)
+-------------------------
+Heat Spreader : 1.00 mm
+  conductivity = 400.000000 W/(m-K)
+  vol. heat capacity = 3550000.000000 J/(m^3-K)
+-------------------------
+Layer 3 : 20.00 um
+  conductivity = 4.000000 W/(m-K)
+  vol. heat capacity = 4000000.000000 J/(m^3-K)
+-------------------------
+Layer 2 : 50.00 um
+  conductivity = 142.857143 W/(m-K)
+  vol. heat capacity = 1750000.000000 J/(m^3-K)
+  dissipates power
+-------------------------
+Layer 1 : 20.00 um
+  conductivity = 4.000000 W/(m-K)
+  vol. heat capacity = 4000000.000000 J/(m^3-K)
+-------------------------
+Layer 0 : 50.00 um
+  conductivity = 142.857143 W/(m-K)
+  vol. heat capacity = 1750000.000000 J/(m^3-K)
+  dissipates power
+-------------------------
+
+
+Creating thermal circuit...
+Resistances: 
+Layer 0: 0.005538 
+Layer 1: 0.079111 
+Layer 2: 0.005538 
+Layer 3: 0.079111 
+Layer 4: 0.039555 
+Layer 5: 5.968909 
+Capacitences: 
+Layer 0: 0.001842 
+Layer 1: 0.001684 
+Layer 2: 0.001842 
+Layer 3: 0.001684 
+Layer 4: 0.074715 
+Layer 5: 1.336343 
+printing grid model information...
+rows: 2
+cols: 2
+width: 0.015900
+height: 0.015900
+printing package RC information...
+r_sp1_x: 0.453668	r_sp1_y: 0.453668
+r_sp_per_x: 0.015451	r_sp_per_y: 0.015451
+c_sp_per_x: 0.191269	c_sp_per_y: 0.191269
+r_hs1_x: 0.065749	r_hs1_y: 0.065749
+r_hs2_x: 0.048241	r_hs2_y: 0.048241
+r_hs_c_per_x: 0.106615	r_hs_c_per_y: 0.106615
+c_hs_c_per_x: 1.319756	c_hs_c_per_y: 1.319756
+r_hs: 0.072464	r_hs_per: 0.025556
+c_hs_per: 5.505864
+r_amb_c_per_x: 2.225003	r_amb_c_per_y: 2.225003
+c_amb_c_per_x: 2.101264	c_amb_c_per_y: 2.101264
+r_amb_per: 0.533333
+c_amb_per: 8.766225
+r_sub1_x: 37.117904	r_sub1_y: 37.117904
+r_sub_per_x: 10.627557	r_sub_per_y: 10.627557
+c_sub_per_x: 0.025067	c_sub_per_y: 0.025067
+r_solder1_x: 4.738456	r_solder1_y: 4.738456
+r_solder_per_x: 1.198788	r_solder_per_y: 1.198788
+c_solder_per_x: 0.030926	c_solder_per_y: 0.030926
+r_pcb1_x: 12.360262	r_pcb1_y: 12.360262
+r_pcb2_x: 10.762357	r_pcb2_y: 10.762357
+r_pcb_c_per_x: 14.155906	r_pcb_c_per_y: 14.155906
+c_pcb_c_per_x: 0.041360	c_pcb_c_per_y: 0.041360
+r_pcb: 80.696319	r_pcb_per: 0.278690
+c_pcb_per: 2.100877
+r_amb_sec_c_per_x: 10627.557256	r_amb_sec_c_per_y: 10627.557256
+c_amb_sec_c_per_x: 0.062667	c_amb_sec_c_per_y: 0.062667
+r_amb_sec_per: 209.226907
+c_amb_sec_per: 3.183147
+total_n_blocks: 12
+map_mode: 3
+r_ready: 1
+c_ready: 1
+has_lcf: 1
+printing last_steady information...
+printing cuboid information...
+0.00000	0.00000	
+0.00000	0.00000	
+
+0.00000	0.00000	
+0.00000	0.00000	
+
+0.00000	0.00000	
+0.00000	0.00000	
+
+0.00000	0.00000	
+0.00000	0.00000	
+
+0.00000	0.00000	
+0.00000	0.00000	
+
+0.00000	0.00000	
+0.00000	0.00000	
+
+printing extra information...
+0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	
+printing last_trans information...
+printing cuboid information...
+0.00000	0.00000	
+0.00000	0.00000	
+
+0.00000	0.00000	
+0.00000	0.00000	
+
+0.00000	0.00000	
+0.00000	0.00000	
+
+0.00000	0.00000	
+0.00000	0.00000	
+
+0.00000	0.00000	
+0.00000	0.00000	
+
+0.00000	0.00000	
+0.00000	0.00000	
+
+printing extra information...
+0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	
+printing last_temp information...
+(null)
+printing layer information...
+no: 0
+has_lateral: 1
+has_power: 1
+k: 142.857143
+thickness: 0.000050
+sp: 1750000.000000
+rx: 140.000000	ry: 140.000000	rz: 0.005538	c: 0.001842
+printing b2gmap information...
+row: 0, col: 0
+printing blist information...
+unit: PE_L1_3
+occupancy: 1.000000
+row: 0, col: 1
+printing blist information...
+unit: PE_L1_4
+occupancy: 1.000000
+row: 1, col: 0
+printing blist information...
+unit: PE_L1_1
+occupancy: 1.000000
+row: 1, col: 1
+printing blist information...
+unit: PE_L1_2
+occupancy: 1.000000
+printing g2bmap information...
+printing glist information...
+unit: PE_L1_1	startx: 0	endx: 1	starty: 1	endy: 2
+unit: PE_L1_2	startx: 1	endx: 2	starty: 1	endy: 2
+unit: PE_L1_3	startx: 0	endx: 1	starty: 0	endy: 1
+unit: PE_L1_4	startx: 1	endx: 2	starty: 0	endy: 1
+printing layer information...
+no: 1
+has_lateral: 1
+has_power: 0
+k: 4.000000
+thickness: 0.000020
+sp: 4000000.000000
+rx: 12500.000000	ry: 12500.000000	rz: 0.079111	c: 0.001684
+printing b2gmap information...
+row: 0, col: 0
+printing blist information...
+unit: TIM_1
+occupancy: 1.000000
+row: 0, col: 1
+printing blist information...
+unit: TIM_1
+occupancy: 1.000000
+row: 1, col: 0
+printing blist information...
+unit: TIM_1
+occupancy: 1.000000
+row: 1, col: 1
+printing blist information...
+unit: TIM_1
+occupancy: 1.000000
+printing g2bmap information...
+printing glist information...
+unit: TIM_1	startx: 0	endx: 2	starty: 0	endy: 2
+printing layer information...
+no: 2
+has_lateral: 1
+has_power: 1
+k: 142.857143
+thickness: 0.000050
+sp: 1750000.000000
+rx: 140.000000	ry: 140.000000	rz: 0.005538	c: 0.001842
+printing b2gmap information...
+row: 0, col: 0
+printing blist information...
+unit: PE_L2_3
+occupancy: 1.000000
+row: 0, col: 1
+printing blist information...
+unit: PE_L2_4
+occupancy: 1.000000
+row: 1, col: 0
+printing blist information...
+unit: PE_L2_1
+occupancy: 1.000000
+row: 1, col: 1
+printing blist information...
+unit: PE_L2_2
+occupancy: 1.000000
+printing g2bmap information...
+printing glist information...
+unit: PE_L2_1	startx: 0	endx: 1	starty: 1	endy: 2
+unit: PE_L2_2	startx: 1	endx: 2	starty: 1	endy: 2
+unit: PE_L2_3	startx: 0	endx: 1	starty: 0	endy: 1
+unit: PE_L2_4	startx: 1	endx: 2	starty: 0	endy: 1
+printing layer information...
+no: 3
+has_lateral: 1
+has_power: 0
+k: 4.000000
+thickness: 0.000020
+sp: 4000000.000000
+rx: 12500.000000	ry: 12500.000000	rz: 0.079111	c: 0.001684
+printing b2gmap information...
+row: 0, col: 0
+printing blist information...
+unit: TIM_1
+occupancy: 1.000000
+row: 0, col: 1
+printing blist information...
+unit: TIM_1
+occupancy: 1.000000
+row: 1, col: 0
+printing blist information...
+unit: TIM_1
+occupancy: 1.000000
+row: 1, col: 1
+printing blist information...
+unit: TIM_1
+occupancy: 1.000000
+printing g2bmap information...
+printing glist information...
+unit: TIM_1	startx: 0	endx: 2	starty: 0	endy: 2
+printing layer information...
+no: 4
+has_lateral: 1
+has_power: 0
+k: 400.000000
+thickness: 0.001000
+sp: 3550000.000000
+rx: 2.500000	ry: 2.500000	rz: 0.039555	c: 0.074715
+printing b2gmap information...
+row: 0, col: 0
+printing blist information...
+unit: TIM_1
+occupancy: 1.000000
+row: 0, col: 1
+printing blist information...
+unit: TIM_1
+occupancy: 1.000000
+row: 1, col: 0
+printing blist information...
+unit: TIM_1
+occupancy: 1.000000
+row: 1, col: 1
+printing blist information...
+unit: TIM_1
+occupancy: 1.000000
+printing g2bmap information...
+printing glist information...
+unit: TIM_1	startx: 0	endx: 2	starty: 0	endy: 2
+printing layer information...
+no: 5
+has_lateral: 1
+has_power: 0
+k: 400.000000
+thickness: 0.006900
+sp: 3550000.000000
+rx: 0.362319	ry: 0.362319	rz: 5.968909	c: 1.336343
+printing b2gmap information...
+row: 0, col: 0
+printing blist information...
+unit: TIM_1
+occupancy: 1.000000
+row: 0, col: 1
+printing blist information...
+unit: TIM_1
+occupancy: 1.000000
+row: 1, col: 0
+printing blist information...
+unit: TIM_1
+occupancy: 1.000000
+row: 1, col: 1
+printing blist information...
+unit: TIM_1
+occupancy: 1.000000
+printing g2bmap information...
+printing glist information...
+unit: TIM_1	startx: 0	endx: 2	starty: 0	endy: 2
+base_n_units: 0
+Computing temperatures for t = 0.000000e+00...
+no. of rk4 calls during compute_temp: 21
+Computing temperatures for t = 1.000000e-03...
+no. of rk4 calls during compute_temp: 18
+Computing temperatures for t = 2.000000e-03...
+no. of rk4 calls during compute_temp: 18
+Computing temperatures for t = 3.000000e-03...
+no. of rk4 calls during compute_temp: 19
+no. of iterations for steady state convergence (2 x 2 grid): 2090
+printing temp...
+369.83552	369.82658	371.20417	369.83552	366.77253	363.46505	363.45681	364.61072	363.46505	357.50945	348.95935	328.32228	328.03907	328.03699	328.03907	328.03699	327.78072	327.78067	327.78072	327.78067	326.07000	326.07000	326.07000	326.07000	
+printing steady_temp...
+529.30239	528.10373	538.38481	529.30239	528.17318	523.61531	522.42009	531.40281	523.61531	518.96764	510.14184	393.82427	391.74487	391.16242	391.74487	391.16242	390.02208	389.48491	390.02208	389.48491	377.25668	376.81491	377.25668	376.81491	
+Simulation complete.

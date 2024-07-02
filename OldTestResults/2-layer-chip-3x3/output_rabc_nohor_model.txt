@@ -1,0 +1,17 @@
+Nr tasks 1, Time 0.003007173538208008, Makespan 15, Max Temp 342.12, Top 1 percent highs 342.12000000000006 
+Nr tasks 2, Time 0.007532596588134766, Makespan 15, Max Temp 351.49, Top 1 percent highs 349.0818518518518 
+Nr tasks 3, Time 0.01158452033996582, Makespan 19, Max Temp 352.54, Top 1 percent highs 352.4864705882353 
+Nr tasks 4, Time 0.009402036666870117, Makespan 19, Max Temp 353.51, Top 1 percent highs 352.6052941176471 
+Nr tasks 5, Time 0.013138294219970703, Makespan 19, Max Temp 368.07, Top 1 percent highs 367.80176470588236 
+Nr tasks 6, Time 0.014261245727539062, Makespan 19, Max Temp 369.19, Top 1 percent highs 368.5538235294118 
+Nr tasks 7, Time 0.019522428512573242, Makespan 19, Max Temp 366.86, Top 1 percent highs 366.6682352941177 
+Nr tasks 8, Time 0.02442479133605957, Makespan 20, Max Temp 390.61, Top 1 percent highs 390.4605555555555 
+Nr tasks 9, Time 0.03302597999572754, Makespan 20, Max Temp 410.66, Top 1 percent highs 410.1877777777778 
+Nr tasks 10, Time 0.03638577461242676, Makespan 20, Max Temp 407.38, Top 1 percent highs 407.06388888888887 
+Nr tasks 11, Time 0.042244911193847656, Makespan 20, Max Temp 411.3, Top 1 percent highs 408.6000000000001 
+Nr tasks 12, Time 0.05292701721191406, Makespan 20, Max Temp 439.65, Top 1 percent highs 437.303611111111 
+Nr tasks 13, Time 0.0825338363647461, Makespan 20, Max Temp 435.53, Top 1 percent highs 430.51222222222225 
+Nr tasks 14, Time 0.06758403778076172, Makespan 20, Max Temp 438.03, Top 1 percent highs 437.3616666666666 
+Nr tasks 15, Time 0.07833576202392578, Makespan 20, Max Temp 432.56, Top 1 percent highs 432.3144444444445 
+Nr tasks 16, Time 0.11521053314208984, Makespan 20, Max Temp 440.76, Top 1 percent highs 439.9461111111111 
+Nr tasks 17, Time 0.9748311042785645, Makespan 20, Max Temp 447.77, Top 1 percent highs 447.2461111111112 
